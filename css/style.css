@@ -1,0 +1,11 @@
+[class*="col-"] {
+  height:100px;
+  background-color: pink;
+  border: 1px solid black;
+  text-align: center;
+}
+
+/* .centre {
+  padding-top: 2%;
+  padding-bottom: 2%;
+} */
