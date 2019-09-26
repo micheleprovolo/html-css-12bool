@@ -1,14 +1,17 @@
 [class*="col-"] {
-  height:10vh;
   background-color: pink;
   border: 1px solid black;
   text-align: center;
 }
 
 p {
-  line-height: 10vh;
+  line-height: 100px;
 }
 
-#testoalto {
-  line-height: normal;
+.red {
+  background-color: red;
+}
+
+.pad {
+  padding:5px;
 }
